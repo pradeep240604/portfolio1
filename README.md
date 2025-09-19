@@ -30,9 +30,8 @@ portfolio/
 - **CSS3** for styling  
 - *(Optional)* Can be extended with JavaScript for form validation or animations.
 
-👨‍💻 Author
-
-Sai Pradeep Kala
+👨‍💻 Author:Sai Pradeep Kala
 📧 saipradeep2464@gmail.com
+GitHub: @pradeep240604
 
  
